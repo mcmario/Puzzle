@@ -1,0 +1,22 @@
+#sample {
+	height: auto;
+    width: 1000px;
+    border: 1px solid red;   
+}
+.move{
+    width: 192px;
+    height: 160px;
+    display: inline-block;
+}
+.moveend{
+    width: 192px;
+    height: 160px;
+    outline: 1px solid red;
+      display: inline-block;
+    
+}
+#end {
+	height: 860px;
+    width: 1000px;
+    border: 1px solid red;   
+}
